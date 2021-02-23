@@ -13,4 +13,4 @@ This is a react repo exploring different ways to manage `state` and `props` for 
 In the project directory, you can run:
 ### `npm start`
 ### `npm test`
-### `npm run build`
+### `npm run build`# todolist
